@@ -50,5 +50,8 @@ export default {
     extend(config, ctx) {
     }
   },
-  pageTransition: 'page'
+  pageTransition: 'page',
+  generate: {
+    fallback: true
+  }
 }
