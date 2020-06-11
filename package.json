@@ -1,0 +1,24 @@
+{
+  "name": "fantastico540",
+  "version": "1.0.0",
+  "description": "work05",
+  "author": "kw",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt-ts",
+    "build": "nuxt-ts build",
+    "generate": "nuxt-ts generate",
+    "start": "nuxt-ts start"
+  },
+  "dependencies": {
+    "@nuxt/typescript-runtime": "^0.4.0",
+    "install": "^0.13.0",
+    "node-sass": "^4.14.1",
+    "npm": "^6.14.5",
+    "nuxt": "^2.0.0",
+    "sass-loader": "^8.0.2"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^0.6.0"
+  }
+}
