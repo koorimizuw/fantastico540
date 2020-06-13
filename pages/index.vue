@@ -40,7 +40,7 @@ export default Vue.extend({
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: rgba(0, 0, 0, 0.5);
-  width: 100vw;
+  //width: 100vw;
   padding: 30px;
   display: flex;
   justify-content: center;
