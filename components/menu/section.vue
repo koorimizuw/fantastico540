@@ -25,7 +25,7 @@ export default Vue.extend({
 <style lang="scss" scoped>
 .section {
   width: 960px;
-  margin: 60px auto;
+  margin: 0 auto 60px;
   display: flex;
   color: #666;
 }

@@ -15,6 +15,7 @@ export default Vue.extend({
 <style lang="scss" scoped>
 .title {
   text-align: center;
+  margin-top: 20px;
   padding: 50px;
   line-height: 40px;
   color: #666;
